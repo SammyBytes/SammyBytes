@@ -14,7 +14,7 @@
 - 💡 **Passion**: Open-source contributions & developer community engagement
 - 🎯 **Goal**: Master distributed systems and high-performance computing
 
-[![committers.top badge](https://user-badge.committers.top/dominican_republic_private/SammyBits.svg)](https://user-badge.committers.top/dominican_republic_private/SammyBits)
+[![committers.top badge](https://user-badge.committers.top/dominican_republic_private/SammyBytes.svg)](https://user-badge.committers.top/dominican_republic_private/SammyBytes)
 ---
 
 ## 🛠️ Tech Stack
