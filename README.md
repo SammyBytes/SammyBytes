@@ -44,6 +44,8 @@ Passionate developer specializing in fullstack technologies. Focused on building
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
   <img src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun">
   <img src="https://hono.dev/images/logo.svg" alt="HonoJS" title="HonoJS" style="width: 48px; height: 48px; margin: 5px">
+    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma">
+
 </span>  
 
 ### 🗃️ Data Layer
@@ -65,7 +67,6 @@ Passionate developer specializing in fullstack technologies. Focused on building
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia" title="Insomnia" style="width: 48px; height: 48px; margin: 5px">
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma">
 
   <img src="https://mintlify.s3.us-west-1.amazonaws.com/hoppscotch/logo/dark.svg" alt="Hoppscotch" title="Hoppscotch" style="width: 48px; height: 48px; margin: 5px">
 </span>  
