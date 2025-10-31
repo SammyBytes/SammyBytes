@@ -7,7 +7,7 @@
 
 ## 👨💻 About Me
 
-18-year-old passionate developer specializing in fullstack technologies. Focused on building robust, scalable applications with modern architectures. Constantly exploring new tools to enhance my technical arsenal and deliver cutting-edge solutions.
+Passionate developer specializing in fullstack technologies. Focused on building robust, scalable applications with modern architectures. Constantly exploring new tools to enhance my technical arsenal and deliver cutting-edge solutions.
 
 - 🚀 **Current Focus**: Enhancing backend systems with microservices & cloud integration
 - 📚 **Learning**: Rust, Docker, Kubernetes, and advanced testing strategies
@@ -65,6 +65,8 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia" title="Insomnia" style="width: 48px; height: 48px; margin: 5px">
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma">
+
   <img src="https://mintlify.s3.us-west-1.amazonaws.com/hoppscotch/logo/dark.svg" alt="Hoppscotch" title="Hoppscotch" style="width: 48px; height: 48px; margin: 5px">
 </span>  
 
@@ -78,7 +80,6 @@
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes">
   <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest">
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma">
   <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" title="Tauri">
 </span>
 
