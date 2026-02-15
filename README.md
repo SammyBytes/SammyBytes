@@ -15,5 +15,5 @@ Passionate about developing high-performance software. My current focus is on tr
 | :--- | :--- |
 | **Frontend** | `React` `TypeScript` `Tailwind` `Blazor` `Bootstrap` |
 | **Backend** | `.NET` `Node.js` `Bun` `HonoJS` `Express` `C#` |
-| **Data Layer** | `PostgreSQL` `MySQL` `Redis` `MongoDB` `Prisma` `Dapper` `TursoDB` |
-| **DevOps & Tools** | `Docker` `Git` `Linux` `Postman` `Rider` `VSCode` |
+| **Data Layer** | `PostgreSQL` `MySQL` `Redis` `MongoDB` `Prisma` `Dapper` `TursoDB` `Drizzle` |
+| **DevOps & Tools** | `Docker` `Github Actions` `Git` `Linux` `Postman` `Rider` `VSCode` |
